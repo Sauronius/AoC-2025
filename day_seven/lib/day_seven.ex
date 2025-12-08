@@ -8,10 +8,10 @@ defmodule DaySeven do
 
   ## Examples
 
-      iex> DaySix.part_one("path/to/your/input")
+      iex> DaySeven.part_one("path/to/your/input")
       1566
 
-      iex> DaySix.part_two("path/to/your/input")
+      iex> DaySeven.part_two("path/to/your/input")
       5921061943075
   """
 
